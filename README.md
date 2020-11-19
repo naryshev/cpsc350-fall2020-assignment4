@@ -5,6 +5,7 @@ Registrar Simulator
  2327209               
  dnaryshev@chapman.edu
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
  Eshaan Vora           
  2318955               
  evora@chapman.edu     
