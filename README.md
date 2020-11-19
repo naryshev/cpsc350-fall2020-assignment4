@@ -21,10 +21,12 @@ DoublyLinkedList.h
 main.cpp
 
 Comments/Known Errors:
-
+Tried implementing the calculations but were unsucessful. Built data-structures to best of ability. 
 
 
 Reference:
 - Zybooks
 - https://www.cplusplus.com/doc/oldtutorial/templates/ (template tutorial)
 -
+
+USING 1 LATE DAY
